@@ -7,5 +7,5 @@ Este paquete es una prueba de un curso de go donde obtiene distintos saludos per
 Ejecuta el siguiente comando para instalar el paquete:
 
 ```bash
-go get -u github.com/inhakinho/greetings
+go get -u github.com/Inhakinho/greetings
 ```
